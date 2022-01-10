@@ -6,4 +6,6 @@ Exploratory Data Analysis and Extensive feature engineering has been applied and
 
 ML Algorithms like Linear Regression, Ridge Regression, Lasso Regression, KNN, Decision Tree, SVM, Random Forest, Extra Tree, Ada Boost, Gradient Boost, Voting Regressor and Gradient Regressor have been used for modelling purpose. 
 
-Web interaction has been made on streamlit framework and deployed to cloud by heroku. 
+Web application has been made with streamlit framework and deployed to cloud by heroku. 
+
+app link: https://laptop-price-predictor-bdt-ahm.herokuapp.com/

@@ -1,6 +1,6 @@
 # Laptop Price Predictor 
 
-It's an end-to-end machine learning projects. 
+It's an end-to-end machine learning project. 
 
 Exploratory Data Analysis and Extensive feature engineering has been applied and visualized through jupyter notebook.
 
